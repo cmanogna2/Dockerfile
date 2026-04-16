@@ -1,4 +1,5 @@
 # 1. Base image
+# Dockerfile for backend containerization
 FROM node:18-alpine
 
 # 2. Set working directory
